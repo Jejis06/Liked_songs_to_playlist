@@ -4,7 +4,7 @@ This program creates you a spotify playlist based on the songs you liked and lat
 <br>
 # -------How to run-------
 <br>
-clone https://github.com/Jejis06/Liked_songs_to_playlist/
+git clone https://github.com/Jejis06/Liked_songs_to_playlist/
 <br>
 cd Liked_songs_to_playlist
 <br>
